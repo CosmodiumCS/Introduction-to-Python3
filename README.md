@@ -2,7 +2,7 @@
 > A Course by Chris Taylor [BLUE C0SM0], powered by CosmodiumCS
 
 ## Course Overview
-This course will take you from knowing nothing to knowing Python at an intermediate level. The course can be taken at 'https://www.cosmodiumcs.com/ip3/' . Officially enrolling in this course will allow you to get a certificate. You can also get quizzed on your knowledge and have easy access to this cousse overview.
+This course will take you from knowing nothing to knowing Python at an intermediate level. The course can be taken at 'https://www.cosmodiumcs.com/courses/' . Officially enrolling in this course will allow you to get a certificate. You can also get quizzed on your knowledge and have easy access to this cousse overview.
 
 ## Module 0.0.0 - Installation & Setup
 ### 0.0.1 - Online Option
