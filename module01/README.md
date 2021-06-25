@@ -4,7 +4,7 @@
 ## 0.1.1 - Datatypes
 - There are different data types for handling the different types of data
 	- string - datatype for text values
-	- integer - dataype for whole number values
+	- integer - datatype for whole number values
 	- float - datatype for decimal values
 	- boolean - datatype for true or false values
 	
