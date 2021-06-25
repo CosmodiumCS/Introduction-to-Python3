@@ -34,6 +34,7 @@ class Dog:
 - we now need to add our instance variables, these variables will contain the dogs' attributes
 	- things like the dogs name and fur color
 - "\_\_init\_\_" method, *init*ializes instance variables to the class [init = initialize]
+	- this "\_\_init\_\_" method is reffered to as the class constructor
 - class methods are structured like functions
 - **all methods** in a class take "self" as their first parameter
 	- "self" parameter, an access point to the current instance of the class
