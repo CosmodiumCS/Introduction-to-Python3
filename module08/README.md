@@ -52,7 +52,7 @@ print(f"File Contents:\n{read_file}")
 ```
 numbers can be used as an argument to read specific lines of a file
 ```
-file = opent("file.txt", "r")
+file = open("file.txt", "r")
 
 # prints line 5
 print(f.read(5))
