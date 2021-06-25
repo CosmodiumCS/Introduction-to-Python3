@@ -29,7 +29,7 @@ print(my_list[2])
 
 ## 0.4.2 - List Functions & Methods
 - a method is a function that relates directly to an object or statement
-"append" method, adds a value to the end of a list
+- "append" method, adds a value to the end of a list
 ```
 my_list.append(6)
 print(my_list)
