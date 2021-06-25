@@ -103,7 +103,7 @@ if any(i < 10 for i in num_list):
 	- returns boolean value
 ```
 num_list = [1, 3, 4, 9, 6, 8]
-if any(i < 10 for i in num_list):
+if all(i < 10 for i in num_list):
 	print("All of the numbers are less than 10")
 
 	
