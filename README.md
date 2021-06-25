@@ -100,7 +100,3 @@ This course will take you from knowing nothing to knowing Python at an intermedi
 ### 0.11.3 - Adding Behaviors
 ### 0.11.4 - Inheritance
 ### 0.11.5 - More Advanced Topics
-
-## Final Exam & Certification
-- you must enroll in the course to be qualified for the certification 
-- certification costs $20
