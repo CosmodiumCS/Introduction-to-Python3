@@ -59,7 +59,7 @@ python3 FILENAME.py
 'FILENAME' represents the name of the file
 
 ## 0.0.6 - Python3 Resources
-- Course Home - 'https://www.cosmodiumcs.com/ip3/'
+- Course Home - 'https://www.cosmodiumcs.com/introduction-to-python3/'
 - Course Overview  - 'https://github.com/CosmodiumCS/Introduction-to-Python3'
 - Documentation - 'https://docs.python.org/3/contents.html'
 - Third Party Resources
