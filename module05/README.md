@@ -71,7 +71,7 @@ print(my_tuple[1:3])
 - each item is seperated by a comma ","
 ```
 set_using_braces = {1, 2, 3, 4, 5}
-set_using_statement = set([1, 2, 3, 4, 5])
+set_using_function = set([1, 2, 3, 4, 5])
 ```
 sets can use "in" and "not" boolean operators
 ```
@@ -130,7 +130,7 @@ print(two)
 ```
 allows for easy value swapping for variables
 ```
-one, two = two, onw
+one, two = two, one
 ```
 if there is an asterisk `*` placed before the variable, it will assign itself to the remaining values
 ```
