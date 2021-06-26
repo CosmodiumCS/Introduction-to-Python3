@@ -12,8 +12,7 @@ import MODULE
 ```
 import MODULE as VARIABLE
 ```
-- each of these modules or class
-"from" statement, import specific method[s] from certain modules
+- "from" statement, import specific method[s] from certain modules
 ```
 from MODULE import METHOD
 ```
