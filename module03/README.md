@@ -26,7 +26,7 @@ while True:
 	print("This will not stop running")
 ```
 - to end a program from running, enter `ctrl` + `c`
-"break" statement ends loops 
+- "break" statement ends loops 
 ```
 i = 0
 
