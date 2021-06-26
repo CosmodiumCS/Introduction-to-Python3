@@ -87,11 +87,6 @@ print(r.choice(dice))
 ```
 print(dice, k = 3)
 ```
-"weights" method, returns probability of each result
-```
-print(r.choices(dice, weights=[6, 5, 4, 3, 2, 1], k = 4))
-[3, 4, 4, 2]
-```
 "shuffle" method, returns shuffled values
 ```
 numbers = [5, 4, 6, 7, 3]
