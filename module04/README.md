@@ -58,7 +58,7 @@ my_list.remove(3)
 print(my_list)
 >>> [1, 2, 9, 4, 5, 3, 6]
 ```
-"pop" method, removes random value
+"pop" method, removes the last value of a list
 ```
 my_list.pop()
 >>> 5
