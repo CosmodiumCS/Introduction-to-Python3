@@ -65,8 +65,8 @@ print(r.random())
 >>> 0.6000450210967234
 ```
 "uniform" method, returns random value between two points as a float
-- values put in the first position are inclusive, they are included as a possible output
-- values put in the second postition are noninclusive, they are not included as a possible output
+- values put as the first argument are inclusive, they are included as a possible output
+- values put as the second argument are noninclusive, they are not included as a possible output
 ```
 print(r.uniform(1, 10))
 >>> 7.20157760130375
