@@ -1,4 +1,4 @@
-# Module 0.4.0 - Lists 
+# Module 0.4.0 - Data Structures & Lists 
 - lists [or arrays] are a type of data structure that can hold multiple values 
 	- "arrays" in python are very different than other languages because they can hold multiple datatypes
 - the index is the placement or location of a value in an array
